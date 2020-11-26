@@ -1,1 +1,1 @@
-web: npm run migrate:up
+web: npm run serve
